@@ -38,6 +38,18 @@
 			<artifactId>micro-infra-spring-base</artifactId>
 			<version>0.6.0</version>
 		</dependency>
+		<!-- FIXME: Add to wiki -->
+		<dependency>
+			<groupId>com.ofg</groupId>
+			<artifactId>micro-infra-spring-test</artifactId>
+			<version>0.6.0</version>
+		</dependency>
+		<!-- FIXME: Not working!-->
+		<dependency>
+			<groupId>com.ofg</groupId>
+			<artifactId>stub-runner-spring</artifactId>
+			<version>0.1.0</version>
+		</dependency>
 		<dependency>
 			<groupId>com.ofg</groupId>
 			<artifactId>micro-deps-spring-test-config</artifactId>
